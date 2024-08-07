@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 6
+names: ['Hello-ptrO', 'IloveYou', 'No', 'Please', 'Thanks', 'Yes']
+
+roboflow:
+  workspace: signlanguage-3wjoj
+  project: sign-language-cxfey
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/signlanguage-3wjoj/sign-language-cxfey/dataset/1
