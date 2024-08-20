@@ -6,3 +6,11 @@
 ```bash
 pip install -r requirements.txt
 ```
+
+## Trace
+- constants
+- config_entity
+- artifact_entity
+- components
+- pipeline
+- app.py
